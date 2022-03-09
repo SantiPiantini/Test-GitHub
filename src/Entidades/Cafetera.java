@@ -11,6 +11,7 @@ public class Cafetera {
     private double servir;
     private double agregar;
     private String atributo1;
+    private String atributo2;
     public Cafetera() {
     }
 
