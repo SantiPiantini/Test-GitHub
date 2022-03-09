@@ -32,7 +32,6 @@ public class JavaPOO6 {
     Cafetera v1 = vs.altaCafetera();
     vs.a1(v1);
     
-        System.out.println("mensaje desde git 2");
     }
     
 }
