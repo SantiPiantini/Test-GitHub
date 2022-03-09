@@ -30,7 +30,9 @@ public class JavaPOO6 {
     
     CafeteraServicios vs = new CafeteraServicios ();
     Cafetera v1 = vs.altaCafetera();
-    vs.a1(v1);   
+    vs.a1(v1);
+    
+        System.out.println("mensaje desde git");
     }
     
 }
