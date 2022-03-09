@@ -10,7 +10,7 @@ public class Cafetera {
     private double vaciar;
     private double servir;
     private double agregar;
-    
+    private String atributo1;
     public Cafetera() {
     }
 
